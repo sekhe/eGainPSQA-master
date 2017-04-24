@@ -13,6 +13,6 @@ public class Tc2_verifyChatSubmitButton extends Tc1_verifyChatLaunch{
 		verifyChatLaunch();
 		CustomerWebPagePom wwpage = new CustomerWebPagePom(driver);
 		wwpage.fn_verfiysubmitbuttontext();
-
+		test
 	}
 }
